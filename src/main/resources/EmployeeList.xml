@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<employees>
+    <employee id="1">
+        <name>ivan</name>
+        <bith-date>12.12.12</bith-date>
+        <start-date>12.12.12</start-date>
+    </employee>
+</employees>
